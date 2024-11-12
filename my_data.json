@@ -1,0 +1,76 @@
+{
+  "students": [
+    {
+      "id": "22100022",
+      "name": "Tom",
+      "age": 18,
+      "phoneNumber": "01023419886"
+    },
+    {
+      "id": "22100033",
+      "name": "James",
+      "age": 21,
+      "phoneNumber": "01067895432"
+    },
+    {
+      "id": "22400042",
+      "name": "Anna",
+      "age": 19,
+      "phoneNumber": "01010981234"
+    },
+    {
+      "id": "22300102",
+      "name": "Lucy",
+      "age": 22,
+      "phoneNumber": "01023218921"
+    },
+    {
+      "id": "21900032",
+      "name": "Mark",
+      "age": 20,
+      "phoneNumber": "01023136789"
+    },
+    {
+      "id": "22000062",
+      "name": "Sophie",
+      "age": 23,
+      "phoneNumber": "01012345432"
+    },
+    {
+      "id": "22100323",
+      "name": "David",
+      "age": 18,
+      "phoneNumber": "01082745621"
+    },
+    {
+      "id": "21600122",
+      "name": "Sarah",
+      "age": 20,
+      "phoneNumber": "01012318972"
+    },
+    {
+      "id": "22400022",
+      "name": "Daniel",
+      "age": 21,
+      "phoneNumber": "01024218923"
+    },
+    {
+      "name": "김성성",
+      "age": "21",
+      "phoneNumber": "01032129876",
+      "id": "22100011"
+    },
+    {
+      "id": "22300011",
+      "name": "김성구",
+      "age": "23",
+      "phoneNumber": "01023210992"
+    },
+    {
+      "id": "22100011",
+      "name": "강성규",
+      "age": "23",
+      "phoneNumber": "01024630692"
+    }
+  ]
+}
