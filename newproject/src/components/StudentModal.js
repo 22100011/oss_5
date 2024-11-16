@@ -61,7 +61,7 @@ const StudentModal = ({ isOpen, onClose, onSubmit, initialData = {}, isUpdateMod
             left: 0;
             width: 100%;
             height: 100%;
-            background-color: rgba(0, 0, 0, 0.5);
+            background-color: gray;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -70,9 +70,7 @@ const StudentModal = ({ isOpen, onClose, onSubmit, initialData = {}, isUpdateMod
           .modal-content {
             background-color: beige;
             padding: 20px;
-            border-radius: 8px;
             width: 300px;
-            max-width: 90%;
           }
         `}
       </style>
