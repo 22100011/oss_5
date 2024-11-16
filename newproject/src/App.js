@@ -5,6 +5,7 @@ import StudentModal from './components/StudentModal';
 import createStudent from './components/CreateStudent';
 import updateStudent from './components/UpdateStudent';
 import deleteStudent from './components/DeleteStudent';
+import './App.css';
 
 const App = () => {
   const [students, setStudents] = useState([]);
@@ -46,7 +47,7 @@ const App = () => {
   return (
     <div>
       <h1>학생 관리 시스템</h1>
-      <button onClick={handleAddStudent}>Add Student</button>
+      <button className=' addbutton' onClick={handleAddStudent}>Add Student</button>
       <ReadStudents
         students={students}
         fetchStudents={fetchStudents}
